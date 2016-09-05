@@ -1,0 +1,10 @@
+{
+    "name": "SHPS4Node-cache",
+    "version": "1.0.0",
+    "description": "Content Caching used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-cache.js",
+    "dependencies": {
+        
+    }
+}
